@@ -5,3 +5,11 @@ def introduce():
 def joke():
     print("hahahahaha")
     
+def add(a,b)
+    c = a + b
+    print(c)
+
+
+
+
+    
